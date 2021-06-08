@@ -40,7 +40,7 @@ class FormularioCadastro extends Component {
           onChange={this._hangleMudancaTexto.bind(this)}
         />
         <button className="form-cadastro_input form-cadastro_submit">
-          Criar Nota
+          Cadastro
         </button>
       </form>
     );
